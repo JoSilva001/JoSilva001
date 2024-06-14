@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje estou trabalhando em projetos pessoais
-- 🌱 Atualmente aprendendo C# e Javascript
+- 🌱 Atualmente aprendendo React
 - 👯 A procura de uma vaga Dev. Junior ou estágio
 
 <div align="center">
