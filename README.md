@@ -2,9 +2,9 @@
 
 
 
-- 🔭 Hoje estou trabalhando em projetos pessoais
-- 🌱 Atualmente aprendendo React
-- 👯 A procura de uma vaga Dev. Junior ou estágio
+- 🔭 Hoje estou estagiando na área de front-end na Policia Federal
+- 🌱 Atualmente aprendendo Angular
+
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
