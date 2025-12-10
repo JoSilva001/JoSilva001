@@ -7,6 +7,7 @@
 
 <h1>Portfolio : https://josilva001.github.io/Portfolio/</h1>
 <br>
+<div>
   <img align="center" alt="Jo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">    
   <img align="center" alt="Jo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
