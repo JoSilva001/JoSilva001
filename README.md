@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Hoje estou estagiando na área de front-end na Policia Federal
-- 🌱 Atualmente aprendendo Angular
+- 🔭 Desenvolvedor Front end
+- 🌱 Angular
 
 
 <div align="center">
