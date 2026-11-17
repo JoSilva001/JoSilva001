@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Desenvolvedor Fullstack
-- Angular, React, SpringBoot
+- 🔭 Desenvolvedor Front-end
+- Angular, React
 
 <h1>Portfolio : https://josilva001.github.io/Portfolio/</h1>
 <br>
